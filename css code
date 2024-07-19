@@ -1,0 +1,378 @@
+.navbar1
+{
+ height:30px;
+ width:100%;
+ background-color: #f6f6f6;
+ display:flex;
+ align-items:center;
+ justify-content:space-between;
+ flex-direction: row;
+ font-size:14px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.inner1{
+    height:30px;
+    width:40%;
+    color:#797979;
+    display:flex;
+ align-items:center;
+ justify-content:space-around;
+ flex-direction: row;
+
+}
+.inner2{
+    height:30px;
+    width:30%;
+    color:#797979;
+    display:flex;
+ align-items:center;
+ justify-content:space-around;
+ flex-direction: row;
+
+}
+.navbar2
+{
+ height:80px;
+ width:100%;
+ background-color:white;
+ display:flex;
+ align-items:center;
+ justify-content:space-around;
+ flex-direction: row;
+ font-size:14px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ position:sticky;
+ top: 0PX;
+
+}
+.inner3{
+    display:flex;
+    align-items:center;
+ justify-content:space-around;
+ flex-direction:center;
+
+}
+.inner4{
+    display:flex;
+    align-items:center;
+ justify-content:space-around;
+ flex-direction: row;
+ height:80px;
+ width:50%;
+}
+.inner5{
+    display:flex;
+    align-items:center;
+ justify-content:space-between;
+ flex-direction: row;
+ height:80px;
+ width:10%;
+ 
+}
+.photo{
+    height:1000px;
+    width:100%;
+    background-image: url("eisr2.jpg");
+    background-size: cover;
+}
+.main{
+    display:flex;
+    justify-content: space-evenly;
+    height:280px;
+    width:80%;
+    margin-left:150px;
+    margin-top: 50px;
+}
+.box1{
+height:180px;
+width:20%;
+border:2px solid grey;
+display:flex;
+    align-items:center;
+ justify-content:space-around;
+ flex-direction: column;
+}
+.featuremain{
+    height:190px;
+    display:flex;
+    align-items:center;
+ justify-content:space-around;
+}
+.feature{
+    height:82px;
+    width:60%;
+    display:flex;
+    align-items:center;
+ justify-content:space-around;
+flex-direction: column;
+}
+.fe1{
+    width:330px;
+    height:44px;
+    font-size:24px;
+    font-weight: 200;
+    background-color:white;
+    color:#2a2a2a;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+flex-direction: ROW;
+}
+.fe2{
+    width:690px;
+    height:40px;
+    color:grey;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+
+}
+.imgmain{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.imbox1{
+    height:495px;
+    width:330px;
+}
+.imbox2{
+    height:495px;
+    width:330px;
+}
+.imbox3{
+    height:495px;
+    width:330px;
+}
+.in1{
+    height:395px;
+    background-image:url("f-p-1.jpg");
+    background-size: cover;
+}
+.in2{
+    height:100px;
+    display:flex;
+    align-items:center;
+ justify-content:space-around;
+ flex-direction: column;
+ margin-top:20px;
+
+}
+.cost{
+    
+ height:50px;
+ color:#f6f6f6;
+ width:280px;
+ display:flex;
+ align-items:flex-start;
+justify-content:space-between;
+flex-direction:row;
+font-size: 20px;
+color:#4a4a4a;
+
+}
+.cost1{
+    height:50px;
+ color:#f6f6f6;
+ width:280px;
+ display:flex;
+ align-items:flex-start;
+justify-content:space-between;
+flex-direction:row;
+font-size: 14px;
+color:#4a4a4a;
+
+}
+#inbx2{
+    height:395px;
+    background-image:url("f-p-2.jpg");
+    background-size: cover;
+
+}
+#inbx3{
+    height:395px;
+    background-image:url("f-p-3.jpg");
+    background-size: cover;
+
+}
+.offer{
+    height:486px;
+    background-image: url("offer.png");
+    background-size: cover;
+}
+.flex{
+    height:760px;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+ flex-direction: row;
+    
+}
+.flexinner{
+    height:760px;
+    width:80%;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+ flex-direction: row;
+
+
+}
+.left{
+    height:760px;
+    width:50%;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+ flex-direction: column;
+
+}
+.right{
+    height:760px;
+    width:50%;
+}
+.lf1{
+    height:40px;
+    width:100%;
+    color:black;
+    padding:0px 0px 20px;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+ 
+    
+}
+.lf2{
+    height:40px;
+    width:100%;
+    color:black;
+    padding:0px 0px 20px;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+ 
+}
+.leftinner{
+    height:76%;
+    width:90%;
+    
+    
+
+}
+.lf3{
+    height:350px;
+    width:100%;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+}
+#product{
+    height:200px;
+    width:500px;
+}
+.lf4{
+    height:36px;
+    width:80%;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+ flex-direction: row;
+ font-size:50px;
+ margin-left:50px;
+}
+.lf5
+{
+    height:45px;
+    width:80%;
+    margin-left:50px;
+    display:flex;
+    align-items:center;
+ justify-content:center;
+}
+#btn{
+    height:40px;
+    width:30%;
+    background-color: #71cd14;
+    color:white;
+    margin-top:20px;
+}
+.right1{
+    height:380px;
+    display:flex;
+    justify-content: space-evenly;
+
+
+    
+}
+.right2{
+    height:380px;
+    display:flex;
+    justify-content: space-evenly;
+}
+.r1bx{
+    height:300px;
+    width:50%;
+    background-color: brown;
+}
+.r2bx{
+    width:50%;
+    height:80px;
+    background-color: #dcbebe;
+}
+.rt1{
+    border:9px solid rgb(30, 15, 131);
+    width:50%;
+
+}
+#bxx1{
+    height:260px;
+    background-image: url("n1.jpg");
+    background-size: cover;
+}
+#para{
+height:60px;
+}
+#bxx2{
+    height:260px;
+    background-image: url("n2.jpg");
+    background-size: cover;
+}
+#bxw1{
+    margin-right:10px;
+}
+#bxx3{
+    height:260px;
+    background-image: url("n3.jpg");
+    background-size: cover;
+}
+#bxx4{
+    height:260px;
+    background-image: url("n4.jpg");
+    background-size: cover;
+}
+#px2{
+    background-image: url("n3.jpg");
+    background-size: cover;
+}
+#px3{
+    background-image: url("f-p-3.jpg");
+    background-size: cover;
+}
+#px1{
+    background-image: url("f-p-2.jpg");
+    background-size: cover;
+}
+#px4{
+    background-image: url("n2.jpg");
+    background-size: cover;
+}
+#px5{
+    background-image: url("n1.jpg");
+    background-size: cover;
+}
+#px6{
+    background-image: url("n4.jpg");
+    background-size: cover;
+}
