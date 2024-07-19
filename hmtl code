@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="navbar1">
+        <div class="inner1">
+            <a>PHONE: +01 256 25 235</a>
+            <a>|</a>
+            <a>EMAIL: INFO@EISER.COM</a>
+        </div>
+        <div class="inner2">
+            <a>GIFT CARD</a>
+            <a>|</a>
+            <a>TRACK ORDER</a>
+            <a>|</a>
+            <a>CONATCT US</a>
+        </div>
+    </div>
+    <div class="navbar2">
+        <div class="inner3">
+            <img src="logos.png">
+        </div>
+        <div class="inner4">
+            <a>HOME</a>
+            <a>SHOP</a>
+            <a>BLOG</a>
+            <a>PAGES</a>
+            <a>CONTACT</a>
+            
+        </div>
+        <div class="inner5">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <i class="fa-solid fa-cart-shopping"></i>
+            <i class="fa-regular fa-user"></i>
+            <i class="fa-regular fa-heart"></i>
+        </div>
+    </div>
+    <div class="photo">
+        
+    </div>
+    <div class="main">
+       
+        <div class="box1">
+            <i class="fa-solid fa-sack-dollar"></i>
+            <a>MONEY BACK GURANTEE</a>
+            <A>shall open divide a one</A>
+        </div>
+        <div class="box1">
+
+            <i class="fa-solid fa-sack-dollar"></i>
+            <a>MONEY BACK GURANTEE</a>
+            <A>shall open divide a one</A>
+        </div>
+        <div class="box1">
+            <i class="fa-solid fa-sack-dollar"></i>
+            <a>MONEY BACK GURANTEE</a>
+            <A>shall open divide a one</A>
+        </div>
+        <div class="box1">
+            <i class="fa-solid fa-sack-dollar"></i>
+            <a>MONEY BACK GURANTEE</a>
+            <A>shall open divide a one</A>
+        </div>
+    </div>
+    <div class="featuremain">
+        <div class="feature">
+           <div class="fe1"><a>FEATURED  PRODUCTS</a></div>
+           <div class="fe2"><a>Bring called seed first of third give itself now ment</a></div>
+        </div>
+       </div>
+    <div class="imgmain">
+        <div class="imbox1">
+            <div class="in1"></div>
+            <div class="in2">
+                <div class="cost1">
+                <a>LATEST MEN’S SNEAKER</a>
+                </div>
+                <div class="cost">
+                <a>$25.00 </a>
+                <a>$35.00</a>
+                </div>
+            </div>
+        </div>
+        <div class="imbox2">
+            <div  id="inbx2"></div>
+            <div class="in2">
+                <div class="cost1">
+                <a>RED WOMEN PURSES</a>
+                </div>
+                <div class="cost">
+                <a>$25.00 </a>
+                <a>$35.00</a>
+                </div>
+            </div>
+        </div>
+        <div class="imbox3">
+            <div  id="inbx3"></div>
+            <div class="in2">
+                <div class="cost1">
+                <a>MEN STYLIST SMART WATCH</a>
+                </div>
+                <div class="cost">
+                <a>$25.00 </a>
+                <a>$35.00</a>
+                </div>
+            </div>
+            </div>
+    
+        <div class="offer">
+        
+    </div>
+</div> <div class="featuremain">
+    <div class="feature">
+       <div class="fe1"><a>NEW PRODUCTS</a></div>
+       <div class="fe2"><a>Bring called seed first of third give itself now ment</a></div>
+    </div>
+   </div>
+    </div>
+    </div>
+
+    <div class="flex">
+        <div class="flexinner">
+        <div class="left">
+            <div class="leftinner">
+            <div class="lf1"><a>COLLECTION OF 2019</a></div>
+            <div class="lf2"><a>MEN’S SUMMER T-SHIRT</a></div>
+            <div class="lf3">
+                <img src="new-product1.png" id="product">
+            </div>
+            <div class="lf4"><a>$120.70</a></div>
+            <div class="lf5">
+                <button id="btn">ADD TO CART</button>
+            </div>
+        </div>
+        </div>
+        <div class="right">
+            <div class="right1">
+                <div class="imbox1" id="bxw1">
+                    <div class="in1" id="bxx1"></div>
+                    <div class="in2">
+                        <div class="cost1" id="para1">
+                        <a>LATEST MEN’S SNEAKER</a>
+                        </div>
+                        <div class="cost">
+                        <a>$25.00 </a>
+                        <a>$35.00</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="imbox1" id="bxw1">
+                    <div class="in1" id="bxx2"></div>
+                    <div class="in2">
+                        <div class="cost1" id="para1">
+                        <a>LATEST MEN’S SNEAKER</a>
+                        </div>
+                        <div class="cost">
+                        <a>$25.00 </a>
+                        <a>$35.00</a>
+                        </div>
+                    </div>
+                </div>
+               
+                
+                
+        </div>
+       
+            <div class="right2">
+                <div class="imbox1" id="bxw1">
+                    <div class="in1" id="bxx3"></div>
+                    <div class="in2">
+                        <div class="cost1" id="para1">
+                        <a>LATEST MEN’S SNEAKER</a>
+                        </div>
+                        <div class="cost">
+                        <a>$25.00 </a>
+                        <a>$35.00</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="imbox1" id="bxw1">
+                    <div class="in1" id="bxx4"></div>
+                    <div class="in2">
+                        <div class="cost1" id="para1">
+                        <a>LATEST MEN’S SNEAKER</a>
+                        </div>
+                        <div class="cost">
+                        <a>$25.00 </a>
+                        <a>$35.00</a>
+                        </div>
+                    </div>
+                </div>
+                
+        </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="featuremain">
+        <div class="feature">
+           <div class="fe1"><a>INSPIRED PRODUCTS</a></div>
+           <div class="fe2"><a>Bring called seed first of third give itself now ment</a></div>
+        </div>
+       </div>
+        </div>
+        </div>
+        <div class="imgmain">
+        <div class="imbox1">
+            <div class="in1" id="px1"></div>
+            <div class="in2">
+                <div class="cost1">
+                <a>LATEST MEN’S SNEAKER</a>
+                </div>
+                <div class="cost">
+                <a>$25.00 </a>
+                <a>$35.00</a>
+                </div>
+            </div>
+        </div>
+        <div class="imbox2">
+            <div  id="inbx2" id="px2"></div>
+            <div class="in2">
+                <div class="cost1">
+                <a>RED WOMEN PURSES</a>
+                </div>
+                <div class="cost">
+                <a>$25.00 </a>
+                <a>$35.00</a>
+                </div>
+            </div>
+        </div>
+        <div class="imbox3">
+            <div  id="inbx3" id="px3"></div>
+            <div class="in2">
+                <div class="cost1">
+                <a>MEN STYLIST SMART WATCH</a>
+                </div>
+                <div class="cost">
+                <a>$25.00 </a>
+                <a>$35.00</a>
+                </div>
+            </div>
+            </div>
+    
+        <div class="offer">
+        
+    </div>
+</div>
+<div class="imgmain">
+    <div class="imbox1">
+        <div class="in1" id="px4"></div>
+        <div class="in2">
+            <div class="cost1">
+            <a>LATEST MEN’S SNEAKER</a>
+            </div>
+            <div class="cost">
+            <a>$25.00 </a>
+            <a>$35.00</a>
+            </div>
+        </div>
+    </div>
+    <div class="imbox2">
+        <div  id="inbx2" id="px5"></div>
+        <div class="in2">
+            <div class="cost1">
+            <a>RED WOMEN PURSES</a>
+            </div>
+            <div class="cost">
+            <a>$25.00 </a>
+            <a>$35.00</a>
+            </div>
+        </div>
+    </div>
+    <div class="imbox3">
+        <div  id="inbx3" id="px6"></div>
+        <div class="in2">
+            <div class="cost1">
+            <a>MEN STYLIST SMART WATCH</a>
+            </div>
+            <div class="cost">
+            <a>$25.00 </a>
+            <a>$35.00</a>
+            </div>
+        </div>
+        </div>
+
+    <div class="offer">
+    
+</div>
+</div>
+<div class="featuremain">
+    <div class="feature">
+       <div class="fe1"><a>LATEST BLOGS</a></div>
+       <div class="fe2"><a>Bring called seed first of third give itself now ment</a></div>
+    </div>
+   </div>
+    </div>
+    </div>
+   
+
+    
+</body>
+</html>
